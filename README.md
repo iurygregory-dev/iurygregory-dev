@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<a href="https://wakatime.com/@iurygregory"><img src="https://wakatime.com/badge/user/3553c5ac-7555-45b7-846e-1a984e01f36b.svg"/></a>
+<a href="https://wakatime.com/@iurygregory"><img src="https://wakatime.com/badge/user/3553c5ac-7555-45b7-846e-1a984e01f36b.svg?style=for-the-badge"/></a>
 
 # Todo período
 <a href="https://wakatime.com/@iurygregory"><img src="https://wakatime.com/share/@iurygregory/d09e2cac-be4e-41af-bdff-cc827d1c3b94.png"></a>
